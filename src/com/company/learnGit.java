@@ -5,5 +5,4 @@ public class learnGit {
     private  int age;
     private  boolean referee;
    public   String  public_name;
-   public  double weight;
 }
